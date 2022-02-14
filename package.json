@@ -1,0 +1,25 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "config.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myudhap/devcode-be-1.git"
+  },
+  "author": "myudhap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myudhap/devcode-be-1/issues"
+  },
+  "homepage": "https://github.com/myudhap/devcode-be-1#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "jest": "^27.4.3",
+    "supertest": "^6.1.6",
+    "uuid": "^8.3.2"
+  }
+}
